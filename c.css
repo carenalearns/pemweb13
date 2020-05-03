@@ -1,0 +1,30 @@
+.leftlinks a {
+	display: block;
+	margin: 3px 0px;
+	border-top: 3px solid #F0E68C;
+	border-left: 3px solid #F0E68C;
+	border-right: 3px solid #EEE8AA;
+	border-bottom: 3px solid #EEE8AA;
+	padding: 4px 10px;
+	font-family: calibri;
+	text-align: center;
+	background-color: #FFFACD;
+	color: #000000;
+	text-decoration: none;
+ }
+.leftlinks a:link {	color: #000000; }
+.leftlinks a:visited { color: #000000; }
+.leftlinks a:hover {
+	display: block;
+	margin: 3px 0px;
+	border-top: 3px solid #EEE8AA;
+	border-left: 3px solid #EEE8AA;
+	border-right: 3px solid #F0E68C;
+	border-bottom: 3px solid #F0E68C;
+	padding: 5px 9px 3px 11px;
+	font-family: calibri;
+	text-align: center;
+	background-color: #FFFACD;
+	color: #000000;
+	text-decoration: none; 	
+}
